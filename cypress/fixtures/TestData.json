@@ -1,0 +1,14 @@
+{
+ "Product 1": {
+  "productName": "Sauce Labs Backpack",
+  "price": "$29.99"
+  },
+  "Product 2": {
+    "productName": "Sauce Labs Bike Light",
+    "price": "$9.99"
+  },
+  "Product 3": {
+    "productName": "Sauce Labs Bolt T-Shirt",
+    "price": "$15.99"
+  }
+}
